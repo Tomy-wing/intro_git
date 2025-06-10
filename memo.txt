@@ -5,3 +5,4 @@ githubの学習！！
 
 2
 /git status
+/git diff
