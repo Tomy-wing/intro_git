@@ -2,3 +2,6 @@ githubの学習！！
 
 ・git add
 ・git commit
+
+2
+/git status
