@@ -1,1 +1,4 @@
 githubの学習！！
+
+・git add
+・git commit
